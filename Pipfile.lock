@@ -1,0 +1,69 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7ce971f0d8425d42b3c44667de83bed4b12f082ef9b5f5ba0b6aa361e1be9453"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "et-xmlfile": {
+            "hashes": [
+                "sha256:8eb9e2bc2f8c97e37a2dc85a09ecdcdec9d8a396530a6d5a33b30b9a92da0c5c",
+                "sha256:a2ba85d1d6a74ef63837eed693bcb89c3f752169b0e3e7ae5b16ca5e1b3deada"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.1.0"
+        },
+        "openpyxl": {
+            "hashes": [
+                "sha256:40f568b9829bf9e446acfffce30250ac1fa39035124d55fc024025c41481c90f",
+                "sha256:8f3b11bd896a95468a4ab162fc4fcd260d46157155d1f8bfaabb99d88cfcf79f"
+            ],
+            "index": "pypi",
+            "version": "==3.0.9"
+        },
+        "pubchempy": {
+            "hashes": [
+                "sha256:24e9dc2fc90ab153b2764bf805e510b1410700884faf0510a9e7cf0d61d8ed0e"
+            ],
+            "index": "pypi",
+            "version": "==1.0.4"
+        }
+    },
+    "develop": {
+        "autopep8": {
+            "hashes": [
+                "sha256:44f0932855039d2c15c4510d6df665e4730f2b8582704fa48f9c55bd3e17d979",
+                "sha256:ed77137193bbac52d029a52c59bec1b0629b5a186c495f1eb21b126ac466083f"
+            ],
+            "index": "pypi",
+            "version": "==1.6.0"
+        },
+        "pycodestyle": {
+            "hashes": [
+                "sha256:720f8b39dde8b293825e7ff02c475f3077124006db4f440dcbc9a20b76548a20",
+                "sha256:eddd5847ef438ea1c7870ca7eb78a9d47ce0cdb4851a5523949f2601d0cbbe7f"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
+            "version": "==2.8.0"
+        },
+        "toml": {
+            "hashes": [
+                "sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b",
+                "sha256:b3bda1d108d5dd99f4a20d24d9c348e91c4db7ab1b749200bded2f839ccbe68f"
+            ],
+            "markers": "python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==0.10.2"
+        }
+    }
+}
